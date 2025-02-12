@@ -23,6 +23,3 @@ function ReverseString(str) {
 
     return finalStr
 }
-
-const reverse = ReverseString('Hello')
-console.log(reverse)
